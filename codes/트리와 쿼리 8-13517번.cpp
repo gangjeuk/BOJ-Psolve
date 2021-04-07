@@ -1,16 +1,23 @@
+
 /*
-참고 자료 - reference - 参考資料
---
-https://panty.run/pst/
+ * Created on 2021 4 Wed Apr 07 2021 13:17:13
+ *
+ * Copyright (c) 2021 Your Company
+ * This work is licensed under the terms of The 3-Clause BSD License.
+ * 설명 - explanation - 解説
+ * --
+ *  참고 자료 - reference - 参考資料
+ * --
+ * https://panty.run/pst/
 
- 퍼시스턴트 세그먼트 트리 
+ 	퍼시스턴트 세그먼트 트리 
 
-https://justicehui.github.io/medium-algorithm/2020/02/29/PST/
---
-노래 추천 - Music recommend - 歌のおすすめ
-https://www.youtube.com/watch?v=xc54rSzbpMM&list=RD8i-B1ieI_kY&index=14
+	https://justicehui.github.io/medium-algorithm/2020/02/29/PST/
+ * 노래 추천 - Music recommend - 歌のおすすめ
+ * --
+ * https://www.youtube.com/watch?v=xc54rSzbpMM&list=RD8i-B1ieI_kY&index=14
+ */
 
-*/
 
 
 #define algo_init ios_base::sync_with_stdio(false), cin.tie(NULL), cout.tie(NULL);
